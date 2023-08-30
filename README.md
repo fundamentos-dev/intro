@@ -12,9 +12,11 @@ Disponibilizamos sistemas interativos de aprendizado e catequese das escrituras 
 
 ### Alguns de nossos projetos:
 
-- biblia com strongs, pelo menos novo testamento, online. Studylight.org
+- biblia com strongs, pelo menos novo testamento, online. Visite Studylight.org
 - jogodabiblia iniciativa de aprendizado gameficado online
 - Site do fundamentos.dev com links interessantes, como ser um colaborador e doação
 - voltadejesus
   Leitura corrida dos evangelhos unificados, linha do tempo dos acontecimentos. Vídeos explicativos como o da visão do profeta. Apêndice com textos relacionados a volta de Jesus.
+- servi - Serviço de Registro Virtual da Igreja, onde temos o cadastro de todos os integrantes e suas ligações em juntas e ligamentos, bom para estudo de relacionamento de dados
 - propósito eterno em gráfico/paralax website (site em forma de slides) já temos a ilustração
+- cifras: um sistema para modulação tonal de cifras automático a partir de input txt, sendo possível criar coleções, inicialmente apenas em arquivamento localStorage, mas futuramente pretendendo evoluir até para orientação de divisão de vozes e harmonia vocal
