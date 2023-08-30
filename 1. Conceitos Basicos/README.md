@@ -32,6 +32,10 @@ Site ou sistemas, nada mais são do que pastas que contém arquivos com códigos
 ## Domínio
 ## ORM
 
+## IDE (Interface de Desenvolvimento)
+
+É o local que você escreve o código, pode ser um bloco de notas, mas pensando que essa é sua ferramenta de trabalho, quato mais robusta melhor, confere? Hoje já temos uso de inteligência artificial que facilita em vários aspectos, mas não vamos tratar delas agora. O terminal e o IDE serão seus aliados. O [VSCode](https://code.visualstudio.com/) é uma boa opção robusta que já tem um terminal embarcado e provavelmente a mais utilizada, além de ser gratuita. Terminal é aquela tela preta que sempre aparece em imagens de filme com hackers, onde digitamos comandos para o computador fazer, como executar um código. Dependendo do seu computador o VSCode pode ser pesado, temos outras opções como [Sublime](https://www.sublimetext.com/). A depender da linguagem de programação de sua preferência você pode querer usar uma IDE mais específica como o (PyCharm)[https://www.jetbrains.com/pt-br/pycharm/] para Python. Quer uma dica? Fique no momento com o VSCode e depois quando evoluir veja o resto.
+
 ## Versionamento de código
 
 Quando trabalhamos em equipe ou mesmo sozinho é sempre bom ter nosso código organizado. "Ih! deletei sem querer um código!", "O que eu estavafazendo mesmo no código na última vez que sentei nessa cadeira?". Para sanar esses problemas existe o versionador de código, onde comentamos (commit) tudo que fazemos e gravamos a evolução, o mais conhecido deles é o Git, não é o Github! Github é uma "rede social" que usa [git](https://git-scm.com/) você também vai encontrar outros como Gitlab, BitBucket... Aprender esse tema é essencial para iniciar qualquer trabalho, por isso [Bons estudos!](https://www.udemy.com/course/git-e-github-para-iniciantes/)
