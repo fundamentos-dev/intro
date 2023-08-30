@@ -31,3 +31,9 @@ Site ou sistemas, nada mais são do que pastas que contém arquivos com códigos
 ## Servidor
 ## Domínio
 ## ORM
+
+## Versionamento de código
+
+Quando trabalhamos em equipe ou mesmo sozinho é sempre bom ter nosso código organizado. "Ih! deletei sem querer um código!", "O que eu estavafazendo mesmo no código na última vez que sentei nessa cadeira?". Para sanar esses problemas existe o versionador de código, onde comentamos (commit) tudo que fazemos e gravamos a evolução, o mais conhecido deles é o Git, não é o Github! Github é uma "rede social" que usa [git](https://git-scm.com/) você também vai encontrar outros como Gitlab, BitBucket... Aprender esse tema é essencial para iniciar qualquer trabalho, por isso [Bons estudos!](https://www.udemy.com/course/git-e-github-para-iniciantes/)
+
+Se você quer mesmo fazer bem feito, aconselho observar as [boas práticas e padronizações de escrever commits](https://github.com/iuricode/padroes-de-commits)
