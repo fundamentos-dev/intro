@@ -6,9 +6,10 @@ Python é uma linguagem simples e prática, a desvantagem é que ela é mais len
 
 Dependendo da [área que você deseja atuar](https://github.com/fundamentos-dev/intro/tree/main/Extras/Areas%20da%20Programacao) é interessante seguir os estudos porum caminho disciplinado, todavia recomendo a todos os profissionais terem o conhecimento básico de como se compõe minimamente uma aplicação Web, que é a maior área de mercado atualmente. O fluxo recomendado então seria:
 
+- Aprender escrever páginas simples com HTML e CSS
+- [Aprender a instalar o Python e criar um ambiente de desenvolvimento](https://github.com/fundamentos-dev/intro/tree/main/4.%20Linguagem%20de%20Programacao/Python/Configurando%20Ambiente%20de%20Desenvolvimento.md)
 - Aprender os fundamentos da linguagem de programação
 - Aprender a manipular os dados (externos com banco de dados, arquivo de texto ou em memória) - A forma facilitada de lidar com banco de dados sem ter que lidar com outra linguagem de programação, o SQL, e dar mais segurança ao seu código é por meio do ORM [Mapeamento (de tabelas do banco) de Orientado a Objeto]
-- Aprender escrever páginas simples com HTML e CSS
 - Aprender a escrever [API](https://nobug.com.br/o-que-e-api-exemplos-beneficios-tipos/) que são as ligações da [interface gráfica - frontend](https://github.com/fundamentos-dev/intro/tree/main/Extras/Areas%20da%20Programacao#frontend) com o processamento de dados que fazemos no [Backend](https://github.com/fundamentos-dev/intro/tree/main/Extras/Areas%20da%20Programacao#backend), temos dois padrões mais usados hoje em dia, todos eles lemos arquivos JSON. São estes o [Rest API](https://www.redhat.com/pt-br/topics/api/what-is-a-rest-api) e o [GraphQL API](https://graphql.org/). É interessante notar que alguns sistemas em [monolito](https://www.youtube.com/watch?v=CsrHHHPHKwE) não fazem essa divisão tendo outra forma de comunicação, mas [esse tem sido o padrão mais usado](https://itforum.com.br/noticias/3-motivos-para-a-extincao-dos-softwares-em-monolitos/#:~:text=Uma%20aplica%C3%A7%C3%A3o%20monol%C3%ADtica%2C%20ou%20constru%C3%ADda,parte%20de%20um%20%C3%BAnico%20bloco.)
 
 Agora é só integrar sua integrar o Backend e Frontend de sua aplicação e pronto! Está rodando o seu sistema!
